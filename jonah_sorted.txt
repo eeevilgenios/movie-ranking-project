@@ -18,9 +18,11 @@ The Prestige
 12 Angry Men
 The Silence of the Lambs
 Nobody
+V For Vendetta
 The Godfather
 Gladiator
 Dr. Horrible's Sing Along Blog
+The Truman Show
 The Karate Kid
 The Lord of the Rings: The Two Towers
 The Incredibles
@@ -30,6 +32,8 @@ Memento
 Logan
 The Fall Guy
 Spider-Man: No Way Home
+X-Men: Days of Future Past
+X-Men: First Class
 Mad Max Fury Road
 Indiana Jones: Raiders of the Lost Ark
 Guardians of the Galaxy Vol. 3
@@ -40,6 +44,7 @@ Star Wars
 Dune
 Spider-Man: Homecoming
 Catch Me If You Can
+Thor: Ragnarok
 Captain America: Civil War
 Aliens
 Aladdin
@@ -49,6 +54,8 @@ Chef
 Mission: Impossible: Fallout
 Edge of Tomorrow
 Ferris Bueller's Day Off
+Who Framed Roger Rabbit
+West Side Story
 The Natural
 Spider-Man: Far From Home
 Set It Up
@@ -69,12 +76,16 @@ The Martian
 Deadpool & Wolverine
 Avengers: Endgame
 Iron Man
+Zootopia
 Bill & Ted's Excellent Adventure
 Isle of Dogs
 Thank You for Smoking
 Get Out
 Silver Linings Playbook
 The Rocketeer
+The Sixth Sense
+The Suicide Squad
+X-Men 2: X-Men United
 The Imitation Game
 Iron Man 3
 Dungeons & Dragons: Honor Among Thieves
@@ -86,12 +97,16 @@ Megamind
 Ant-Man and the Wasp
 Ant-Man
 Animal House
+Zoolander
 Guardians of the Galaxy Vol. 2
+Toy Story 2
 Guardians of the Galaxy
 The Empire Strikes Back
 Airplane!
+The Thing
 Frozen
 How to Train Your Dragon
+The Usual Suspects
 The Disaster Artist
 Mission: Impossible: Rogue Nation
 Mission: Impossible III
@@ -116,6 +131,8 @@ Field of Dreams
 E.T. the Extra-Terrestrial
 Cloudy With A Chance of Meatballs
 Mission: Impossible: Dead Reckoning Part One
+Wreck-It Ralph
+Toy Story
 Shaun of the Dead
 The Matrix
 The Man from U.N.C.L.E
@@ -131,6 +148,7 @@ Free Guy
 Star Trek (2009)
 Deadpool
 The Fifth Element
+The Terminator
 The Adjustment Bureau
 Star Wars: The Force Awakens
 Holes
@@ -155,6 +173,8 @@ Pirates of the Caribbean: Dead Man's Chest
 Sleepless in Seattle
 Spider-Man 2
 The Great Train Robbery
+The Wolverine
+Wall-E
 The Book of Life
 Spider-Man 3
 Legally Blonde
@@ -170,17 +190,24 @@ Black Widow
 Black Panther
 Black Panther: Wakanda Forever
 Avengers: Age of Ultron
+Thor
 Iron Man 2
+Thor: The Dark World
 Pirates of the Caribbean: At World's End
 Return of the Jedi
+Watchmen
+Wonder Woman
 Batman (1989)
 Big Trouble in Little China
 National Lampoon's Christmas Vacation
 Scooby-Doo
+Venom
 Star Wars: Episode III: Revenge of the Sith
 The Hobbit: An Unexpected Journey
+Thor: Love and Thunder
 The Amazing Spider-Man
 Scooby-Doo! and the Witch's Ghost
+True Lies
 Scooby-Doo 2: Monsters Unleashed
 Mission: Impossible II
 High School Musical
@@ -188,9 +215,12 @@ High School Musical 2
 Beauty and the Beast
 High School Musical 3: Senior Year
 Ant-Man and the Wasp: Quantumania
+X-Men: The Last Stand
 Fantastic Four
+Weekend at Bernie's
 The Naked Gun: From the Files of Police Squad
 Eternals
+Venom: Let There Be Carnage
 Batman v Superman: Dawn of Justice
 Man of Steel
 Star Wars: Episode II: Attack of the Clones
